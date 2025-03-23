@@ -1,0 +1,8 @@
+flask
+werkzeug
+langchain-community
+langchain-together
+langchain-core
+sentence-transformers
+faiss-cpu
+pypdf
